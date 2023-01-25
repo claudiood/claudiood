@@ -6,7 +6,7 @@
  
 ##
   
-  <h3>Estudante de Eletrônica IFSUL - Pelotas</h3>
+  <h3>Técnico em Eletrônica IFSUL - Pelotas</h3>
   
  ##
   
